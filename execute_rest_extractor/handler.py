@@ -4,7 +4,7 @@ import os
 
 from ice_cream_factory_datapoints_extractor import extractor
 
-
+#this is a comment
 def handle(secrets, data):
     print("running rest extractor.")
     if secrets:
